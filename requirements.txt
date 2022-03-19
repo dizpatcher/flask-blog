@@ -1,2 +1,12 @@
 flask
 flask-sqlalchemy
+flask_migrate
+flask_admin
+flask_security
+sqlalchemy
+wtforms
+mysql-connector-python
+bcrypt
+requests
+werkzeug
+flask_script
