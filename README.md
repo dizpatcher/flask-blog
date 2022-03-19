@@ -1,4 +1,6 @@
-# flask-blog
-this is blog engine on flask
+# Блоговый движок на Flask
 
-repository hasn't a venv directory: there are modules like "flask_migrate, flask_admin, flask_security, sqlalchemy, wtforms, mysqlconnector, bcrypt, requests, werkzeug"
+Реализовано обновление и подключение к БД, админка.
+Движок представляет из себя возможность создания, изменения и поиска постов. Присутствует возможность добавления для каждого поста тегов и группировка по ним.
+
+Основано на видео-курсе Олега Молчанова.
